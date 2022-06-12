@@ -2,7 +2,7 @@
 - 👀 I’m interested in studying new technology
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me joseph.weng@outlook.com
+- 📫 How to reach me yweng_sh@outlook.com
 
 <!---
 enhydraboy/enhydraboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
